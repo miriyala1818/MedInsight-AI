@@ -250,7 +250,7 @@ Tests cover the hallucination prevention framework and evaluation service logic.
 ## Project Structure
 
 ```text
-Drug_dealer/
+MedInsight-AI/
 ├── backend/
 │   ├── app/
 │   │   ├── agents/          # Planner, Retrieval, Validation, Citation, Response
